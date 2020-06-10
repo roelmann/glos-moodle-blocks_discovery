@@ -1,0 +1,19 @@
+aside#block-region-side-top {
+    flex-wrap: wrap;
+}
+.block-discovery {
+    width: 100%;
+}
+.block_discovery .card-body {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.block_discovery .card-text.mt-3 {
+    margin-top: 0 !important;
+}
+.block_discovery .card-text .col-12 {
+    padding-top: 0 !important;
+}
+.block_discovery #discovery-search-box {
+    margin-top: 0 !important;
+}
